@@ -2,6 +2,8 @@
 Data accompanying the manuscript 'Patterns and drivers of early conifer regeneration following stand-replacing wildfire in Pacific Northwest (USA) temperate maritime forests' by Laughlin, Rangel-Parra, Morris, Donato, Halofsky and Harvey published in Forest Ecology and Management. 
 *See the main text of the manuscript for complete descriptions of how data were collected, and greater specifics on values and classifications.*  
 
+[![DOI](https://zenodo.org/badge/750538450.svg)](https://zenodo.org/doi/10.5281/zenodo.10595208)
+
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This information is licensed under a
