@@ -1,0 +1,660 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--Record created using version 2.0.7 of the USGS Metadata Wizard tool. (https://github.com/usgs/fort-pymdwizard)-->
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Madison M. Laughlin</origin>
+        <origin>Liliana K. Rangel-Parra</origin>
+        <origin>Jenna E. Morris</origin>
+        <origin>Daniel C. Donato</origin>
+        <origin>Joshua S. Halofsky</origin>
+        <origin>Brian J. Harvey</origin>
+        <pubdate>20240130</pubdate>
+        <title>Patterns and drivers of early conifer regeneration following stand-replacing wildfire in Pacific Northwest (USA) temperate maritime forests</title>
+        <edition>v1.1.0</edition>
+        <geoform>tabular digital data</geoform>
+        <othercit>Laughlin, M.M., Rangel-Parra, L.K., Jenna E. Morris, J.E., Donato, D.C., Halofsky, J.S., and Harvey, B.J., 2024, Patterns and drivers of early conifer regeneration following stand-replacing wildfire in Pacific Northwest (USA) temperate maritime forests: Zenodo, https://zenodo.org/doi/10.5281/zenodo.10595208.</othercit>
+        <onlink>https://zenodo.org/doi/10.5281/zenodo.10595208 </onlink>
+        <onlink>https://github.com/Harvey-Lab-UW/Laughlin_etal_2023_FEM</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Madison M. Laughlin</origin>
+            <origin>Liliana K. Rangel-Parra</origin>
+            <origin>Jenna E. Morris</origin>
+            <origin>Daniel C. Donato</origin>
+            <origin>Joshua S. Halofsky</origin>
+            <origin>Brian J. Harvey</origin>
+            <pubdate>202312</pubdate>
+            <title>Patterns and drivers of early conifer regeneration following stand-replacing wildfire in Pacific Northwest (USA) temperate maritime forests</title>
+            <geoform>publication</geoform>
+            <serinfo>
+              <sername>Forest Ecology and Management</sername>
+              <issue>vol. 549</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>Elsevier BV</publish>
+            </pubinfo>
+            <othercit>ppg. 121491</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Data accompanying the manuscript 'Patterns and drivers of early conifer regeneration following stand-replacing wildfire in Pacific Northwest (USA) temperate maritime forests' by Laughlin, Rangel-Parra, Morris, Donato, Halofsky and Harvey published in Forest Ecology and Management. Data include field measurements of post-fire seedling abundance and additional information about the forest stands where data were collected.  See the main text of the manuscript for complete descriptions of how data were collected, and greater specifics on values and classifications.</abstract>
+      <purpose>This research is part of a broad, collaborative effort across agencies and partners to better understand the drivers, characteristics, and indicators of post-fire resilience in northwestern Cascadia. The data here were collected to assess the patterns and potential drivers of conifer seedling regeneration and establishment following stand-replacing mortality in the western Cascades of Washington and Oregon.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20190601</begdate>
+          <enddate>20210920</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>observed</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>Northwestern Cascadia</descgeog>
+      <bounding>
+        <westbc>-123.1964</westbc>
+        <eastbc>-121.1762</eastbc>
+        <northbc>48.7232</northbc>
+        <southbc>45.5438</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>none</themekt>
+        <themekey>wildfire</themekey>
+        <themekey>forest</themekey>
+        <themekey>resilience</themekey>
+        <themekey>recovery</themekey>
+        <themekey>conifers</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>fires</themekey>
+        <themekey>forest ecosystems</themekey>
+        <themekey>ecosystem resilience</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Washington</placekey>
+        <placekey>Oregon</placekey>
+        <placekey>western Cascades</placekey>
+        <placekey>northwestern Cascadia</placekey>
+        <placekey>Pacific Northwest</placekey>
+      </place>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>Pseudotsuga menziesii</taxonkey>
+        <taxonkey>Abies amabilis</taxonkey>
+        <taxonkey>Abies procera</taxonkey>
+        <taxonkey>Thuja plicata</taxonkey>
+        <taxonkey>Tsuga heterophylla</taxonkey>
+        <taxonkey>Pinus monticola</taxonkey>
+        <taxonkey>Pinus contorta</taxonkey>
+      </keywtax>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Plantae</taxonrv>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Viridiplantae</taxonrv>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Streptophyta</taxonrv>
+            <taxoncl>
+              <taxonrn>Superdivision</taxonrn>
+              <taxonrv>Embryophyta</taxonrv>
+              <taxoncl>
+                <taxonrn>Division</taxonrn>
+                <taxonrv>Tracheophyta</taxonrv>
+                <taxoncl>
+                  <taxonrn>Subdivision</taxonrn>
+                  <taxonrv>Spermatophytina</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Class</taxonrn>
+                    <taxonrv>Pinopsida</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Subclass</taxonrn>
+                      <taxonrv>Pinidae</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Pinales</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Pinaceae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Pseudotsuga</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Pseudotsuga menziesii</taxonrv>
+                              <common>TSN: 183424</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Abies</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Abies amabilis</taxonrv>
+                              <common>TSN: 181824</common>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Abies procera</taxonrv>
+                              <common>TSN: 181835</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Tsuga</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Tsuga heterophylla</taxonrv>
+                              <common>TSN: 183400</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Pinus</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Pinus monticola</taxonrv>
+                              <common>TSN: 183356</common>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Pinus contorta</taxonrv>
+                              <common>TSN: 183327</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Cupressaceae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Thuja</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Thuja plicata</taxonrv>
+                              <common>TSN: 18044</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>This information is licensed under a Creative Commons Attribution 4.0 International License. Any user of these data ("User" hereafter) is required to cite it appropriately in any publication that results from its use. These data may be actively used by others for ongoing research, so coordination may be necessary to prevent duplicate publication. The User is urged to contact the authors of these data for questions about methodology or results. The User is encouraged to consider collaboration or co-authorship with authors where appropriate. Misinterpretation of data may occur if used out of context of the original study. Substantial efforts are made to ensure accuracy of the data and documentation, however complete accuracy of data sets cannot be guaranteed. All data are made available as is. Data may be updated periodically and it is the responsibility of the User to check for new versions of the data. The authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Brian J. Harvey</cntper>
+        </cntperp>
+        <cntpos>Associate Professor</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>School of Environmental and Forest Sciences, University of Washington, 4000 15th Ave NE</address>
+          <city>Seattle</city>
+          <state>Washington</state>
+          <postal>98195</postal>
+          <country>United States of America</country>
+        </cntaddr>
+        <cntvoice>(206) 685-9929 
+</cntvoice>
+        <cntemail>bjharvey@uw.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>This research is part of a broad, collaborative effort across agencies and partners to better understand the drivers, characteristics, and indicators of post-fire resilience in northwestern Cascadia and was supported by the United States Department of Agriculture (USDA) Forest Service – Pacific Northwest Research Station under award 20-JV-11261927-060 as part of the Westside Fire and Climate Adaptation Research Initiative. The project described in this publication was also supported by Grant / Cooperative Agreement G20AC00115 from the United States Geological Survey Northwest Climate Adaptation Science Center. Its contents are solely the responsibility of the authors and do not necessarily represent the views of the Northwest Climate Adaptation Science Center or the USGS. This manuscript is submitted for publication with the understanding that the United States Government is authorized to reproduce and distribute reprints for Governmental purposes. Additional support was provided by the Good Neighbor Authority between the USDA Forest Service and Washington Department of Natural Resources.</datacred>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Burn severity, forest zone, and pre-fire stand age were consistent within each 1-ha (56.5 m radius) plot. Plots of the same strata (i.e., same forest zone and pre-fire stand age) were separated by at least 400 m to reduce spatial autocorrelation. Plot centers were established at least 100 m away from a road or trail when possible to limit the influence of human activities or edge effects. We did not establish plots within areas that were salvage logged or planted post-fire, and avoided placing plots near streams, wetlands, or ephemeral creeks.</attraccr>
+    </attracc>
+    <logic>Data were assessed to ensure that attribute values fall within expected bounds.</logic>
+    <complete>We focused our sampling on western hemlock or Pacific silver fir forest zones since they occupy most of the forested land in the study region and are most relevant to forest land management. We excluded the Douglas-fir zone since these forests occur at warmer sites and are associated with a historically more frequent, mixed-severity fire regime relative to northwestern Cascadia. This dataset is considered complete, please refer to the complete metadata record and companion primary publication, Laughlin et al 2023. </complete>
+    <lineage>
+      <procstep>
+        <procdesc>We established 39 1-ha long-term monitoring plots across four recent wildfires in northwestern Cascadia to measure post-fire conifer abundance and species composition. All plots were established June through September 2019–2021 within stand-replacing patches of wildfire (i.e., areas where overstory tree mortality exceeded 90 %) stratified across two axes of interest: forest zone (lower elevation western hemlock zone and higher elevation Pacific silver fir zone) and pre-fire stand age (young, mid-seral, and late-seral). Potential plot locations were first identified remotely using spatial layers related to burn severity, forest zone, and stand-age with all accessible locations considered equally. Potential plot locations were ground validated by keying out forest zone, pre-fire stand age, and burn severity and then randomized locally using a random distance and azimuth to establish plot center. 
+
+</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>At each plot (hereafter referred to as ‘stand’), post-fire conifer regeneration surveys occurred within twelve circular subplots evenly distributed along four 24.5 m sub-cardinal transects (i.e., transects situated along azimuths of 45, 135, 225, and 315 degrees from plot center, with three subplots per transect). Within each subplot, post-fire conifer regeneration less than 10 cm tall of each species were tallied within a 0.5 m radius circle from subplot center and regeneration ≥10 cm tall of each species were tallied within a 3.5 m radius circle from subplot center.</procdesc>
+        <procdate>2022</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Based on established general ecological understanding of the system, we measured six factors relevant to seedling establishment and survival: pre-fire stand structure, seed source availability, macroclimate setting, post-fire climatic conditions, topo-climatic conditions, and competition/microsite conditions. Our final eight explanatory variables related to these factors included: pre-fire stand age (young, mid-seral, late-seral), distance to the nearest live seed source (i.e., the nearest living clump of mature trees at least 1 ha in area), forest zone (western hemlock versus Pacific silver fir), standardized precipitation evapotranspiration index (SPEI), heat load index (HLI), topographic wetness index (TWI), average vegetation percent cover, and average bryophyte percent cover. Pre-fire stand age, forest zone, vegetation percent cover, bryophyte percent cover, and the variables to calculate HLI were collected in the field. Distance to the nearest live seed source, TWI, and SPEI were derived from publicly available geospatial datasets and are described in more detail in our related primary publication (Laughlin et al 2023). </procdesc>
+        <procdate>2022</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>plot_level_data_by_species.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>plotID</attrlabl>
+        <attrdef>unique plot identifier in the format fire_plot. Fire is the wildfire where the plot is located and Plot a unique plot number identifier.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>unique plot identifier in the format fire_plot. Fire is the wildfire where the plot is located and Plot a unique plot number identifier.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>species</attrlabl><attrdef>four letter code indicating the species of each measured conifer seedling.</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>abpr</edomv>
+      <edomvd>Abies procera (Noble fir)</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>psme</edomv>
+      <edomvd>Pseudotsuga menziesii (Douglas-fir)</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>abam</edomv>
+      <edomvd>Abies amabilis (Pacific silver fir)</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>pico</edomv>
+      <edomvd>Pinus contorta (lodgepole pine)</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>pimo</edomv>
+      <edomvd>Pinus monticola (western white pine)</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>tshe</edomv>
+      <edomvd>Tsuga heterophylla (western hemlock)</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>thpl</edomv>
+      <edomvd>Thuja plicata (western red-cedar)</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>abla</edomv>
+      <edomvd>Abies lasiocarpa (subalpine fir)</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>pien</edomv>
+      <edomvd>Picea engelmannii (Engelmann spruce)</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>regen_per_ha_yr</attrlabl>
+        <attrdef>Regeneration rate of seedlings (i.e., seedlings per hectare per year) for a species within a plot (includes post-fire seedlings of all heights).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>4</rdommin>
+            <rdommax>86168</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>shade_tolerance</attrlabl><attrdef>conifer species classification of shade tolerance, binned into two groups: shade intolerant ("intolerant") and shade tolerant ("tolerant").</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>intolerant</edomv>
+      <edomvd>species is classified as shade intolerant</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>tolerant</edomv>
+      <edomvd>species is classified as shade tolerant</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>plot_level_data.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>plotID</attrlabl>
+        <attrdef>unique plot identifier in the format Fire_Plot. Fire is the wildfire where the plot is located and Plot is a unique plot number identifier.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>unique plot identifier in the format Fire_Plot. Fire is the wildfire where the plot is located and Plot is a unique plot number identifier.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>fire</attrlabl><attrdef>the wildfire where the plot is located</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>eagl</edomv>
+      <edomvd>Eagle Creek</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>good</edomv>
+      <edomvd>Goodell Creek</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>mapl</edomv>
+      <edomvd>Maple</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>nors</edomv>
+      <edomvd>Norse Peak</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>seedling_count</attrlabl>
+        <attrdef>Raw count of established seedlings &gt;= 10 cm tall within a plot.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>2376</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>seedlings_per_ha</attrlabl>
+        <attrdef>Established seedling density (i.e., seedlings per hectare) &gt;=10 cm tall within a plot</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>21.65373375</rdommin>
+            <rdommax>51449.2714</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>seedlings_per_ha_yr</attrlabl>
+        <attrdef>Establishment rate of seedlings (i.e., seedlings per hectare per year) &gt;=10 cm tall within a plot</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>5</rdommin>
+            <rdommax>10290</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>regen_count</attrlabl>
+        <attrdef>Raw count of all seedlings within a plot (includes post-fire seedlings of all heights).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>2439</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>regen_per_ha</attrlabl>
+        <attrdef>Seedling density (i.e., seedlings per hectare) within a plot (includes post-fire seedlings of all heights)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>21.65373375</rdommin>
+            <rdommax>264067.2831</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>regen_per_ha_yr</attrlabl>
+        <attrdef>Regeneration rate of seedlings (i.e., seedlings per hectare per year) within a plot (includes post-fire seedlings of all heights)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>5</rdommin>
+            <rdommax>88022</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>stand_age</attrlabl><attrdef>pre-fire stand age classification of plot</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>mature</edomv>
+      <edomvd>mid-seral</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>old</edomv>
+      <edomvd>late-seral</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>young</edomv>
+      <edomvd>early-seral</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+  <attrlabl>forest_zone</attrlabl><attrdef>forest zone classification of plot</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>abam</edomv>
+      <edomvd>Pacific silver fir zone</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>tshe</edomv>
+      <edomvd>Western hemlock zone</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>seedwall_dist_m_sat</attrlabl>
+        <attrdef>distance in meters to the nearest clump of living mature trees at least 1 ha in area, measured from plot center using 2-3 year post-fire NAIP imagery. </attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>22.97</rdommin>
+            <rdommax>1610.11</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>veg_pc</attrlabl>
+        <attrdef>average percent cover of herbs and shrubs, measured in the field.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0.620454545</rdommin>
+            <rdommax>57.54884058</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>hli</attrlabl>
+        <attrdef>plot-level heat load index. An index of incident solar radiation calculated using slope, aspect, and latitude. Values range from 0 (cooler topo-climatic conditions) to 1 (warmer topo-climatic conditions).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0.37864762</rdommin>
+            <rdommax>0.995808376</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>twi</attrlabl>
+        <attrdef>plot-level topographic wetness index. Index of topographic controls on hydrologic processes, including soil moisture. Lower values indicate drier conditions; higher values indicate wetter conditions.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>4.2288899</rdommin>
+            <rdommax>8.1405296</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>bryo_pc</attrlabl>
+        <attrdef>average percent cover of bryophytes (i.e., non-vascular plants), measured in the field. </attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>64.09090909</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>avg_spei_3yr</attrlabl>
+        <attrdef> Index of growing season drought anomalies over a 180-day window. Values between -1 and 1 indicate relatively ‘normal’ conditions; values &lt; -1 indicate drought; values &gt; 1 indicate a wetter than normal growing season. Range -1.07 - 0.19</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>-1.07</rdommin>
+            <rdommax>0.186666667</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>spp_richness</attrlabl>
+        <attrdef>number of conifer species present within a plot. </attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>1</rdommin>
+            <rdommax>6</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>sdi</attrlabl>
+        <attrdef>plot-level Shannon diversity index of conifer species.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>1.223755407</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>perc_shadeintol</attrlabl>
+        <attrdef>percentage of total seedlings that are classified as shade intolerant. </attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>100.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>perc_shadetol</attrlabl>
+        <attrdef>percentage of total seedlings that are classified as shade tolerant.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>100.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Madison M. Laughlin</cntper>
+          <cntorg>School of Environmental and Forest Sciences</cntorg>
+        </cntperp>
+        <cntpos>PhD Student</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>School of Environmental and Forest Sciences, University of Washington, 4000 15th Ave NE</address>
+          <city>Seattle</city>
+          <state>WA</state>
+          <postal>98195</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>(206) 616-1879</cntvoice>
+        <cntemail>laughmad@uw.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness, no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform><digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt><onlinopt><computer><networka><networkr>https://zenodo.org/doi/10.5281/zenodo.10595208 </networkr></networka></computer></onlinopt></digtopt></digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20240208</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Madison M. Laughlin</cntper>
+          <cntorg>School of Environmental and Forest Sciences</cntorg>
+        </cntperp>
+        <cntpos>PhD Student</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>School of Environmental and Forest Sciences, University of Washington, 4000 15th Ave NE</address>
+          <city>Seattle</city>
+          <state>Washington</state>
+          <postal>98195</postal>
+          <country>United States of America</country>
+        </cntaddr>
+        <cntvoice>(206) 616-1879</cntvoice>
+        <cntemail>laughmad@uw.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
